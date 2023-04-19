@@ -4,4 +4,10 @@
         "editor.defaultFormatter": "ms-python.black-formatter"
     },
     "python.formatting.provider": "none",
+    "[html]": {
+        "editor.formatOnSave": true
+    },
+    "html.format.templating": true,
+    "html.format.indentHandlebars": false,
+    "search.useIgnoreFiles": false,
 }
